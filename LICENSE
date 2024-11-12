@@ -1,0 +1,8 @@
+
+- **License:** It's good practice to add a LICENSE file for open-source projects. You can use MIT or GPL, depending on your preference.
+
+### Final Thoughts
+
+Once you have this basic setup, you can start solving more problems in the same way, across different languages. As you add more problems, you can continue to organize them in subdirectories by topic (e.g., Arrays, Linked Lists, Sorting Algorithms). Make sure to keep the repository well-documented with explanations for each problem and solution.
+
+If you have any specific questions as you set things up, feel free to ask!
